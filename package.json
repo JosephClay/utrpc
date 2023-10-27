@@ -1,6 +1,6 @@
 {
-  "name": "utrpc",
-  "version": "0.0.1",
+  "name": "@immutabl3/utrpc",
+  "version": "0.0.2",
   "description": "fullstack uwebsockets typesafety inspired by trpc",
   "main": "index.ts",
   "type": "module",
