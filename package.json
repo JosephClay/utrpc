@@ -1,0 +1,29 @@
+{
+  "name": "utrpc",
+  "version": "0.0.1",
+  "description": "fullstack uwebsockets typesafety inspired by trpc",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uwebsockets",
+    "trpc",
+    "Bun",
+    "ts",
+    "js"
+  ],
+  "author": {
+    "name": "Joseph Clay",
+    "email": "j053phclay@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "nanoid": "^5.0.1",
+    "zod": "^3.22.3"
+  },
+  "devDependencies": {
+    "bun-types": "^1.0.7"
+  }
+}

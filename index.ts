@@ -1,0 +1,1 @@
+throw new Error('import from client/ or server/');
