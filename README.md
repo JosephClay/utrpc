@@ -1,6 +1,8 @@
 # utrpc
 
-Fullstack uwebsockets typesafety inspired by trpc. Made for Bun.
+Fullstack uwebsockets typesafety inspired by trpc. Made for Bun. Written in TS.
+
+This is a work-in-progress - contributors welcome! Current code is not transpiled to js and usage via npm may require configuration.
 
 ## Features: 
 
