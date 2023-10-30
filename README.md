@@ -23,7 +23,7 @@ import {
   Io,
   router,
   method,
-} from '../server';
+} from '@immutabl3/utrpc/server';
 
 class Message {
   message: string;
@@ -82,7 +82,7 @@ console.log('callClient.pull', result); // { id: 1, message: 'Hello World' }
 ### `client.ts`
 
 ```typescript
-import { client } from 'utrpc/client';
+import { client } from '@immutabl3/utrpc/client';
 import type { AppRouter } from './server';
 
 const utrpc = client<AppRouter>({
